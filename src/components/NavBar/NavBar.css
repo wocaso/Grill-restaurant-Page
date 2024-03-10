@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Libre+Franklin&display=swap');
+
+#NavBarContainer{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 90vw;
+    height: 15vh;
+    margin: auto;
+    
+    
+
+}
+#NavBarContainerLeft{
+    height: auto;
+    width: auto;
+    margin-left: -4vw;
+}
+#NavBarContainerVerti{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    position: fixed; /* Fijar el navbar en la ventana del navegador */
+
+    transition: 0.3s ease;
+    width: 99.7vw;
+}
+#NavBarContainerVertiWhite{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    position: fixed; /* Fijar el navbar en la ventana del navegador */
+    top: 0; /* Alinearlo en la parte superior de la ventana */
+    left: 0; /* Alinearlo a la izquierda */
+    transition: 0.3s ease;
+    background-color: white;
+    width: 99.7vw;
+}
+
+#NavBarLogoLeftImg{
+    scale: 0.5;
+}
+
+#NavBarContainerRight{
+    display: flex;
+    flex-direction: row;
+}
+
+.NavBarContainerRightButton{
+    border: 0px;
+    background-color: transparent;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 30px;
+}
+
+#NavBarLine{
+    background-color: rgb(255, 255, 255);
+    width: 68vw;
+    height: 2px;
+    margin: auto;
+    margin-top: -2vh;
+    border-radius: 20px;
+}
+
+#NavBarLineVertiWhite{
+    background-color: rgb(255, 255, 255);
+    height: 2.5vh;
+    width: 2px;
+    margin: auto;
+    margin-left: 0.5vw;
+    margin-right:0.5vw;
+}
+#NavBarLineVertiBlack{
+    background-color: rgb(0, 0, 0);
+    height: 2.5vh;
+    width: 2px;
+    margin: auto;
+    margin-left: 0.5vw;
+    margin-right:0.5vw;
+}
+
+.textWhite{
+    color: white;
+}
+

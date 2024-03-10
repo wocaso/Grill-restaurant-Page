@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Libre+Franklin&display=swap');
+#IntroPageSeccion2Container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#IntroPageSeccion2ContainerUp{
+    display: flex;
+    flex-direction: row;
+}
+
+#IntroPageSeccion2ContainerDown{
+    display: flex;
+    flex-direction: row;
+}
+#IntroPageSeccion2ContainerUpRight{
+    display: flex;
+    flex-direction: column;
+    width: 49.2vw;
+    height: auto;
+    text-align: start;
+    background-color: rgb(245, 245, 245);
+   
+}
+
+#IntroPageSeccion2ContainerDownLeft{
+    display: flex;
+    flex-direction: column;
+    width: 52vw;
+    height: auto;
+    text-align: start;
+    margin-left: 2.8vw;
+    background-color: rgb(245, 245, 245);
+    
+
+}
+#IntroPageSeccion2ContainerUpRightLabelTittle{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 20px;
+    color: orange;
+    margin-left: 2vw;
+    margin-top: 2vh;
+
+}
+
+#IntroPageSeccion2ContainerUpRightTittle{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 50px;
+    margin-left: 2vw;
+}
+
+#IntroPageSeccion2ContainerUpRightDesc{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(136, 136, 136);
+    margin-left: 2vw;
+    width: 40vw;
+}
+
+#IntroPageSeccion2ContainerUpRightButton{
+    border: 0px;
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 30px;
+    height: 8vh;
+    width: 15vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vh;
+    margin-left: 0.7vw;
+}
+
+
+#IntroPageSeccion2ContainerDownRightLabelTittle{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 20px;
+    color: orange;
+    margin-left: 4vw;
+    margin-top: 2vh;
+
+}
+
+#IntroPageSeccion2ContainerDownRightTittle{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 50px;
+    margin-left: 4vw;
+}
+
+#IntroPageSeccion2ContainerDownRightDesc{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(136, 136, 136);
+    margin-left: 4vw;
+    width: 40vw;
+}
+
+#IntroPageSeccion2ContainerDownRightButton{
+    border: 0px;
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 30px;
+    height: 8vh;
+    width: 15vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vh;
+    margin-left: 1vw;
+}
+

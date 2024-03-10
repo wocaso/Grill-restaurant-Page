@@ -1,0 +1,21 @@
+#myrestaurantMainBodySeccion1{
+    display: flex;
+    flex-direction: column;
+}
+
+#myrestaurantMainBodySeccion1{
+    height: 120vh;
+    width: 100vw;
+    background-image: url('../../../public/assets/mainPicture.png'); /* Reemplaza esto con la ruta de tu imagen */
+    background-size: cover; /* Para cubrir todo el contenido del div */
+    background-position: center;
+}
+#myrestaurantMainBodySeccion2{
+    height: 112vh;
+    width: 100w;
+}
+#myrestaurantMainBodySeccion3{
+    height: 85vh;
+    width: 100vw;
+
+}

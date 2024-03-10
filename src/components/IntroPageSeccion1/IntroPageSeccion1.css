@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Libre+Franklin&display=swap');
+
+#IntroPageSeccion1Container{
+    margin: auto;
+    margin-top: 35vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#IntroPageSeccion1DownContainer{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.IntroPageSeccion1Button{
+    border: 0px;
+    background-color: transparent;
+    color: white;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 30px;
+    height: 8vh;
+    width: 15vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.IntroPageSeccion1ButtonContainer{
+    border: 2px solid white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 8vh;
+    width: 15vw;
+    margin-top: 5vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.IntroPageSeccion1ButtonContainer:hover{
+    background-color: white;
+    
+    transition: 0.3s ease;
+
+}
+.IntroPageSeccion1Button:hover{
+    transition: 0.3s ease;
+    color: black;
+
+}
+
+#IntroPageSeccion1Img{
+    height: 2vw;
+    width: 2vw;
+}
