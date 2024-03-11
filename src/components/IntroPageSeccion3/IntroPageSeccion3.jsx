@@ -51,7 +51,7 @@ function IntroPageSeccion3() {
           <div id="IntroPageSeccion3ContainerFooterUpImgContainer">
             <img
               id="IntroPageSeccion3ContainerFooterUpImg"
-              src="./assets/LogoNegroo.png"
+              src="./assets/LogoNegro.png"
               alt=""
             />
           </div>
