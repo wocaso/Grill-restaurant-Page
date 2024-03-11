@@ -121,4 +121,102 @@
 #IntroPageSeccion3ContainerFooter{
     height: 30vh;
     width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+#IntroPageSeccion3ContainerFooterUp{
+    display: flex;
+    flex-direction: row;
+    text-align: start;
+}
+
+.IntroPageSeccion3ContainerFooterTittle{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 30px;
+    margin-left: 2vh;
+    margin-top: 2vh;
+}
+.IntroPageSeccion3ContainerFooterText{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 15px;
+    color: rgb(128, 128, 128);
+    margin-left: 2vh;
+}
+
+.IntroPageSeccion3ContainerFooterLink{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 20px;
+    color: orange;
+    margin-left: 2vh;
+    margin-top: 2vh;
+}
+
+#IntroPageSeccion3ContainerFooterUpImg{
+    scale: 0.7;
+
+}
+#IntroPageSeccion3ContainerFooterUp1{
+    display: flex;
+    flex-direction: column;
+    width: 13vw;
+    border-right: 1px solid rgb(145, 145, 145); /* Borde rojo en el lado izquierdo */
+    border-bottom: 1px solid rgb(145, 145, 145);
+}
+#IntroPageSeccion3ContainerFooterUp2{
+    display: flex;
+    flex-direction: column;
+    width: 8vw;
+    border-right: 1px solid rgb(145, 145, 145); /* Borde rojo en el lado izquierdo */
+    border-bottom: 1px solid rgb(145, 145, 145);
+}
+#IntroPageSeccion3ContainerFooterUp3{
+    display: flex;
+    flex-direction: row;
+    width: 15vw;
+    border-bottom: 1px solid rgb(145, 145, 145);
+}
+
+
+#IntroPageSeccion3ContainerFooterUpImgContainer{
+    border-right: 1px solid rgb(145, 145, 145); /* Borde rojo en el lado izquierdo */
+    border-bottom: 1px solid rgb(145, 145, 145);
+    height: 17vh;
+    width: 14vw;
+
+}
+
+#IntroPageSeccion3ContainerFooterUp3Social{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: auto;
+    width: 6vw;
+    margin-top: -9vh;
+    margin-left: 1vw;
+
+}
+
+.IntroPageSeccion3ContainerFooterUp3SocialImg{
+    height: 30px;
+    width: 30px;
+}
+
+#IntroPageSeccion3ContainerFooterDownLabel{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 20px;
+    margin-top: 3vh;
+    margin-bottom: -2vh;
 }
