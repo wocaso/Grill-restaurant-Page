@@ -18,9 +18,7 @@ function NavBar() {
     };
   }, []);
 
-  function dondeEstamos(){
-    console.log(scrollY)
-  }
+
 
   return (
     <div>
@@ -30,7 +28,7 @@ function NavBar() {
             <img id="NavBarLogoLeftImg" src="./Assets/LogoBlanco.png" alt="" />
         </div>
         <div id="NavBarContainerRight">
-          <button onClick={dondeEstamos} className="NavBarContainerRightButton textWhite">Who we are ?</button>
+          <button className="NavBarContainerRightButton textWhite">Who we are ?</button>
           <div id="NavBarLineVertiWhite"></div>
           <button className="NavBarContainerRightButton textWhite">Cafes</button>
           <div id="NavBarLineVertiWhite"></div>
@@ -54,7 +52,7 @@ function NavBar() {
             <img id="NavBarLogoLeftImg" src="./Assets/LogoNegro.png" alt="" />
         </div>
         <div id="NavBarContainerRight">
-          <button onClick={dondeEstamos} className="NavBarContainerRightButton">Who we are ?</button>
+          <button className="NavBarContainerRightButton">Who we are ?</button>
           <div id="NavBarLineVertiBlack"></div>
           <button className="NavBarContainerRightButton">Cafes</button>
           <div id="NavBarLineVertiBlack"></div>
