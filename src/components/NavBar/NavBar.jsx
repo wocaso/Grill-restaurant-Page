@@ -29,6 +29,7 @@ function NavBar() {
         </div>
         <div id="NavBarContainerRight">
           <button className="NavBarContainerRightButton textWhite">Who we are ?</button>
+          <img id="NavBarLogoLeftImg" src="./Assets/LogoBlanco.png" alt="" />
           <div id="NavBarLineVertiWhite"></div>
           <button className="NavBarContainerRightButton textWhite">Cafes</button>
           <div id="NavBarLineVertiWhite"></div>
