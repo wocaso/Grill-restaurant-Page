@@ -24,8 +24,8 @@ function NavBar() {
     <div>
       {(scrollY<400) ? <div id="NavBarContainerVerti">
       <div id="NavBarContainer">
-        <div id="NavBarContainerLeft">
-            <img id="NavBarLogoLeftImg" src="./assets/LogoBlancoo.png" alt="" />
+      <div id="NavBarContainerLeft">
+            <img id="NavBarLogoLeftImg" src="./assets/logoBlancoo.png" alt="" />
         </div>
         <div id="NavBarContainerRight">
           <button className="NavBarContainerRightButton textWhite">Who we are ?</button>
