@@ -8,4 +8,5 @@ I've made this page in react js.
 
 ## Showcase
 
+![Alt text](https://github.com/wocaso/Grill-restaurant-Page/blob/main/public/Screen%20for%20readme.gif)
 
