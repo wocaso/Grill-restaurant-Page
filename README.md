@@ -2,7 +2,7 @@
 
 A showcase page designed for a grill restaurant, highlighting menu items, ambiance, and contact information.
 
-## Tecnology used
+## Technologies Utilized
 
 I've made this page in react js.
 
