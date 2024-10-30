@@ -1,4 +1,4 @@
-#Showcase page for a grill restaurant
+##Showcase page for a grill restaurant
 
 A showcase page designed for a grill restaurant, highlighting menu items, ambiance, and contact information.
 
